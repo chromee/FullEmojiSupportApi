@@ -6,7 +6,7 @@ Emoji Support Api for TextMeshPro. This repository was created by modifying the 
 
 See [here](https://forum.unity.com/threads/full-emoji-support-api-emoji-sequen.660310/#post-4420162).
 
-日本語なら[ここ]()。
+日本語なら[ここ](https://virtualcast.jp/blog/2019/10/emoji)。
 
 ## What difference from original
 
