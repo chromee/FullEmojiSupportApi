@@ -97,6 +97,9 @@ namespace TMPro
         protected virtual string ConvertToUnityJsonFormat(string p_json)
         {
             p_json = "{\"frames\":" + p_json + "}";
+            
+            p_json = p_json.Replace("-FE0F\"", "\"");
+            p_json = p_json.Replace(@"-fe0f.png", ".png");
 
             var v_changed = false;
             var v_jObject = MiniJsonEditor.Deserialize(p_json) as Dictionary<string, object>;
