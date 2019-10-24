@@ -72,7 +72,13 @@ namespace TMPro
                     //add the char (normal character)
                     else
                     {
-                        sb.Append(p_text[i]);
+                        var c = p_text[i];
+                        if (c == '\ufe0f' || c == '\ufe0e')
+                        {
+                            v_changed = true;
+                            continue;
+                        }
+                        sb.Append(c);
                     }
                 }
 
