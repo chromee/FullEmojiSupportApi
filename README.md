@@ -17,4 +17,4 @@ See [here](https://forum.unity.com/threads/full-emoji-support-api-emoji-sequen.6
 ## License
 
 * Android Emoji: Copyright &copy; [The Android Open Source Project](https://s3-eu-west-1.amazonaws.com/tw-font/android/NOTICE) - 11275b5 / 2017-10-30
-* Emoji Search Api: Copyright Rafael Costa Soares 2019-12-04
+* Emoji Search Api: Copyright &copy; [Rafael Costa Soares](https://github.com/chromee/FullEmojiSupportApi/blob/master/Assets/EmojiSearchApi/Readme.txt) / 2019-12-04
