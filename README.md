@@ -1,3 +1,8 @@
+TextMeshPro 1.2系からこのリポジトリは動作しません。
+
+元の作者がUPMでパッケージを配布しているのでそちらを利用してください。
+https://forum.unity.com/threads/full-emoji-support-api-emoji-sequen.660310/#post-4420162
+
 # Full Emoji Support Api
 
 Emoji Support Api for TextMeshPro. This repository was created by modifying the [original Full Emoji Support Api](https://forum.unity.com/threads/full-emoji-support-api-emoji-sequen.660310/#post-4420162).
